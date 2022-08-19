@@ -1,8 +1,8 @@
 ---
-title: Lesson Post 2!
+title: Lesson Post Next!
 date: "2022-08-19T19:35:03.284Z"
-description: "Example on data management via VCS"
+description: "Example of VCS features"
 ---
 
-This post was created during the Otus lesson about Git and GitHub
+This is a test post for lesson
 
